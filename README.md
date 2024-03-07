@@ -1,5 +1,4 @@
-問題描述: 
-透過LSTM及回歸模型預測Youbike借車量
+ # 透過LSTM及回歸模型預測Youbike借車量
 
 資料集:
 Youbike: YouBike2.0臺北市公共自行車即時資訊
