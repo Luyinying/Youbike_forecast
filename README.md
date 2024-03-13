@@ -10,4 +10,4 @@ Youbike: YouBike2.0臺北市公共自行車即時資訊
 研究方法:
 LSTM(長短期記憶網路) 及 回歸模型
 
-詳細描述於 #YouBike_forecast.pdf
+詳細描述於 YouBike_forecast.pdf
